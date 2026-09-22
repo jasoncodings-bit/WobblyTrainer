@@ -7,7 +7,6 @@ Sorry its kinda blank but i just made this to help people out
 
 So basically just run the bat and it auto sets up beplnx and the mod and press F2 to use.
 
-1. A numbered list
 2. Portal Gun
 3. Webslinger
 4. Rope Tool
